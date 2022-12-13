@@ -1,6 +1,13 @@
 <script>
 zettlrRevealOptions.transition="none"
 </script>
+
+#
+
+Freestyle Swimming
+
+Anastasija Georgi
+
 # {data-background="body-positions.png"}
 
 
@@ -12,7 +19,7 @@ zettlrRevealOptions.transition="none"
 
 <p  style="position: relative;
   margin-left: 750px;
-  margin-top: -50px;">HEAD POSITION</p>
+  margin-top: -100px;">HEAD POSITION</p>
 
 
 # {data-background="body-positions.png"}
@@ -52,3 +59,19 @@ zettlrRevealOptions.transition="none"
 # {data-background="body-positions.png"}
 
 <p style="position: absolute; margin-left: 30px">HIPS ROTATION</p>
+
+# {data-background="body-positions.png"}
+
+<p style="position: absolute; padding-left: 450px">BODY POSITION</p>
+
+<p  style="position: relative;
+  margin-left: 750px;
+  margin-top: -100px;">HEAD POSITION</p>
+  
+  <p style="position: relative; margin-left: -1100px">KICK</p>
+
+
+
+# {data-background="body-positions.png"}
+
+<p style="position: absolute; margin-left: 30px">Danke!</p>
